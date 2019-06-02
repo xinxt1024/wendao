@@ -7,19 +7,19 @@
             <mt-swipe :auto="4000">
                 <mt-swipe-item>
                     <a href="">
-                        <img src="/src/assets/1.png" alt="">
+                        <img src="../../assets/1.png" alt="">
                         <span>banner1</span>
                     </a>
                 </mt-swipe-item>
                 <mt-swipe-item>
                     <a href="">
-                        <img src="/src/assets/2.png" alt="">
+                        <img src="../../assets/2.png" alt="">
                         <span>banner1</span>
                     </a>
                 </mt-swipe-item>
                 <mt-swipe-item>
                     <a href="">
-                        <img src="/src/assets/3.png" alt="">
+                        <img src="../../assets/3.png" alt="">
                         <span>banner1</span>
                     </a>
                 </mt-swipe-item>
