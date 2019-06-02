@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" data-dpr="1">
+  <head>
+    <meta charset="utf-8">
+    <title>wendao-m</title>
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" type="text/css" href="static/reset.css">
+  </head>
+  <body>
+    <div id="app"></div>
+    <script src="/dist/build.js"></script>
+  </body>
+  <script type="text/javascript">
+		//通过js获取设备的真实宽度
+		var htmlWidth = document.documentElement.clientWidth || document.body.clientWidth;
+		//查找html节点对象
+		var htmlDOM = document.getElementsByTagName('html')[0];
+		//由于如果直接使用设备宽度作为参考点，375px 计算出来的rem可能会存在太多小数，通常会将其除以10作为参考点
+		htmlDOM.style.fontSize = htmlWidth / 10 + 'px';
+	</script>
+</html>
