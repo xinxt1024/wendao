@@ -7,19 +7,19 @@
             <mt-swipe :auto="4000">
                 <mt-swipe-item>
                     <a href="">
-                        <img src="../../assets/1.png" alt="">
+                        <img src="/wendao/src/assets/1.png" alt="">
                         <span>banner1</span>
                     </a>
                 </mt-swipe-item>
                 <mt-swipe-item>
                     <a href="">
-                        <img src="../../assets/2.png" alt="">
+                        <img src="/wendao/src/assets/2.png" alt="">
                         <span>banner1</span>
                     </a>
                 </mt-swipe-item>
                 <mt-swipe-item>
                     <a href="">
-                        <img src="../../assets/3.png" alt="">
+                        <img src="/wendao/src/assets/3.png" alt="">
                         <span>banner1</span>
                     </a>
                 </mt-swipe-item>
@@ -29,35 +29,35 @@
         <!-- 分类 -->
         <section class="category">
             <div>
-                <img src="/src/assets/category/1.png" alt="">
+                <img src="/wendao/src/assets/category/1.png" alt="">
                 <span>英语口语</span>
             </div>
             <div>
-                <img src="/src/assets/category/1.png" alt="">
+                <img src="/wendao/src/assets/category/1.png" alt="">
                 <span>英语考试</span>
             </div>
             <div>
-                <img src="/src/assets/category/1.png" alt="">
+                <img src="/wendao/src/assets/category/1.png" alt="">
                 <span>初中数学</span>
             </div>
             <div>
-                <img src="/src/assets/category/1.png" alt="">
+                <img src="/wendao/src/assets/category/1.png" alt="">
                 <span>高中数学</span>
             </div>
             <div>
-                <img src="/src/assets/category/1.png" alt="">
+                <img src="/wendao/src/assets/category/1.png" alt="">
                 <span>英语口语</span>
             </div>
             <div>
-                <img src="/src/assets/category/2.png" alt="">
+                <img src="/wendao/src/assets/category/2.png" alt="">
                 <span>英语考试</span>
             </div>
             <div>
-                <img src="/src/assets/category/1.png" alt="">
+                <img src="/wendao/src/assets/category/1.png" alt="">
                 <span>初中数学</span>
             </div>
             <div>
-                <img src="/src/assets/category/2.png" alt="">
+                <img src="/wendao/src/assets/category/2.png" alt="">
                 <span>高中数学</span>
             </div>
         </section>
@@ -70,7 +70,7 @@
                     <li @click="courseDetail(1)">
                         <div class="course-main">
                             <div class="course-img">
-                                <img src="/src/assets/course/1.jpg" alt="">
+                                <img src="/wendao/src/assets/course/1.jpg" alt="">
                             </div>
                             <div class="course-content">
                                 <p>2020英语专业八级全程班</p>
@@ -81,7 +81,7 @@
                     <li @click="courseDetail(2)">
                         <div class="course-main">
                             <div class="course-img">
-                                <img src="/src/assets/course/2.jpg" alt="">
+                                <img src="/wendao/src/assets/course/2.jpg" alt="">
                             </div>
                             <div class="course-content">
                                 <p>2020英语专业四级全程班</p>
@@ -101,7 +101,7 @@
                     <li>
                         <div class="course-main">
                             <div class="course-img">
-                                <img src="/src/assets/course/2.jpg" alt="">
+                                <img src="/wendao/src/assets/course/2.jpg" alt="">
                             </div>
                             <div class="course-content">
                                 <p>2020英语专业四级全程班</p>
@@ -112,7 +112,7 @@
                     <li>
                         <div class="course-main">
                             <div class="course-img">
-                                <img src="/src/assets/course/2.jpg" alt="">
+                                <img src="/wendao/src/assets/course/2.jpg" alt="">
                             </div>
                             <div class="course-content">
                                 <p>2020英语专业四级全程班</p>

@@ -4,7 +4,7 @@
         <!-- 顶部广告 -->
         <section class="top-ad">
             <a href="">
-                <img src="/src/assets/ad/1.jpg" alt="">
+                <img src="../../assets/ad/1.jpg" alt="">
             </a>
         </section>
 

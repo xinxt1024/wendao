@@ -2,7 +2,7 @@
     <div>
         <course-top :content="content"></course-top>
         <section class="video">
-            <video controls src="../../assets/course/video.mp4" poster="/src/assets/course/video.jpg"></video>
+            <video controls src="/wendao/src/assets/course/video.mp4" poster="/wendao/src/assets/course/video.jpg"></video>
         </section>
         <!-- 课程详情 -->
         <nav class="course-detail">

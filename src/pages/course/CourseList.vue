@@ -92,7 +92,7 @@
             width: 14px;
             height: 14px;
             vertical-align: middle;
-            background: url(/src/assets/course/view.png) no-repeat;
+            background: url(/wendao/src/assets/course/view.png) no-repeat;
             background-size: 30px 15px;
         }
     }
@@ -122,13 +122,13 @@
             height:14px;
         }
         .icon-collapse{
-            background: url("/src/assets/course/plus-square.png") no-repeat;
+            background: url("/wendao/src/assets/course/plus-square.png") no-repeat;
             background-size:100% 100%;
             width:17px;
             height:17px;
         }
         .icon-expand{
-            background: url("/src/assets/course/minus-square.png") no-repeat;
+            background: url("/wendao/src/assets/course/minus-square.png") no-repeat;
             background-size:100% 100%;
         }
         .sub{
